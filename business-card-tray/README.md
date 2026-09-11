@@ -11,8 +11,8 @@ organized or present your business cards neatly on a wall or desk
 
 ## Links
 
-- [Headphones Stand on MakerWorld](TODO)
-- [Headphones Stand on Printables](TODO)
+- [Headphones Stand on MakerWorld](https://makerworld.com/en/models/3291755-business-card-tray#profileId-3735125)
+- [Headphones Stand on Printables](https://www.printables.com/model/1839195-business-card-tray)
 
 ## Specs
 
@@ -23,7 +23,7 @@ organized or present your business cards neatly on a wall or desk
 
 ### Wall-mountable
 
-- **PLA filament:** ~40
+- **PLA filament:** ~40g
 - **Print time:** ~1h 55min
 
 💡 **Note:** The wall-mountable version designed for M4 screws with a maximum head diameter of 8.5 mm
